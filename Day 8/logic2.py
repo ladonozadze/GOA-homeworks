@@ -6,8 +6,3 @@ squats=int(input("how many squats have you done? :"))
 
 x=print(pushup == required_pushups or squats==required_squats)
 
-if x==True:
-    print("congratulation!!")
-elif x==True:
-    print("contratulation!!")    
-
