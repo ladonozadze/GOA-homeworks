@@ -1,0 +1,7 @@
+number1=input("enter number (1): " )
+number2=input("enter number (2): ")
+number3=input("enter number (3):" )
+print("Addition: " ,int(number1)+int(number2)+int(number3))
+print( "Subtraction: " ,int(number1)-int(number2)-int(number3))
+print( "multiplication: ", int(number1)*int(number2)*int(number3))
+print( "Division: " ,int(number1)/int(number2)/int(number3))
